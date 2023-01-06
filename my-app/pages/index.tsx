@@ -377,7 +377,4 @@ export default function Home() {
     </div>
   );
 }
-function getTotalTokenMinted() {
-  throw new Error('Function not implemented.');
-}
 
